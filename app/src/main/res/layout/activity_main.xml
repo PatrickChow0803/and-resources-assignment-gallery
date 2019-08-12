@@ -15,11 +15,19 @@
                 style="@style/VerticalColumn"
                 android:id="@+id/ll_left_column">
 
+            <ImageView
+                    style="@style/ImageStyle"
+                    app:srcCompat="@drawable/abstract_abstract_expressionism_art_2505693"
+                    android:id="@+id/imageView"/>
         </LinearLayout>
         <LinearLayout
                 style="@style/VerticalColumn"
                 android:id="@+id/ll_right_column">
 
+            <ImageView
+                    style="@style/ImageStyle"
+                    app:srcCompat="@drawable/alley_architecture_buildings_2526517"
+                    android:id="@+id/imageView2"/>
         </LinearLayout>
 
     </LinearLayout>
