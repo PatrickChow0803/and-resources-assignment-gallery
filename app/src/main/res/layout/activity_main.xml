@@ -17,6 +17,7 @@
 
             <ImageView
                     style="@style/ImageStyle"
+                    android:contentDescription="@string/abstract_art_is_abstract"
                     app:srcCompat="@drawable/abstract_abstract_expressionism_art_2505693"
                     android:id="@+id/imageView3"/>
         </LinearLayout>
@@ -26,6 +27,7 @@
 
             <ImageView
                     style="@style/ImageStyle"
+                    android:contentDescription="@string/idon_tevenknowwhatthisis"
                     app:srcCompat="@drawable/alley_architecture_buildings_2526517"
                     android:id="@+id/imageView2"/>
         </LinearLayout>
